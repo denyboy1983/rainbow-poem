@@ -3,6 +3,7 @@ The Rainbow poem
 red
 blue
 green
+yellow
 purple
 
 these are the colors of rainbow
